@@ -2,4 +2,4 @@
  
 My first repository
 
-I love :coffee :Pizza:, and :dancer
+I love  :coffee: :Pizza:, and :dancer:.
